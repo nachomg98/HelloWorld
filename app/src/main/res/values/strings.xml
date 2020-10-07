@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="msgByebye">Adiós mundo</string>
+    <string name="tvMessage">Hola Mundo</string>
+</resources>
