@@ -33,7 +33,7 @@ Aplicación (app) realizada en AndroidStudio que muestra un mensaje de "HolaMund
 
 ### <u>Ejecutable</u>
 
-<img src="/home/ignacio/Imágenes/CapturaHelloWord.png" alt="CapturaHelloWord" style="zoom:80%; float:left;" />
+<img src="/home/ignacio/Imágenes/CapturaHelloWord.png" style="zoom:80%; float:left;" />
 
 ### <u>Construido con</u>
 
