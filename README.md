@@ -1,10 +1,12 @@
+
+
 # HelloWorld
 
-### Introducción
+### <u>Introducción</u>
 
 Aplicación (app) realizada en AndroidStudio que muestra un mensaje de "HolaMundo" y "AdiósMundo". Resulta nuestro primer proyecto de Android en este curso.
 
-### Conceptos Aprendidos
+### <u>Conceptos Aprendidos</u>
 
 1. Manejar y entender el entorno de Android Studio.
 2. Configurar el SDK Manager y AVD Manager.
@@ -21,7 +23,7 @@ Aplicación (app) realizada en AndroidStudio que muestra un mensaje de "HolaMund
 9. Crear un icono de launcher de nuestra app.
 10. Adaptar la interfaz a la orientación horizontal.
 
-### Descripción del Proyecto
+### <u>Descripción del Proyecto</u>
 
 - **Plataforma**: AndroidStudio.
 - **Código Fuente**: Java.
@@ -29,18 +31,17 @@ Aplicación (app) realizada en AndroidStudio que muestra un mensaje de "HolaMund
 - **targetSdkVersion**: 28.
 - **compileSdkVersion**: 29.
 
-### Ejecutable
+### <u>Ejecutable</u>
 
-<img src="/home/ignacio/Imágenes/CapturaHelloWord.png" alt="[CapturaHelloWord]()" style="zoom: 80%; float:left;" />
+<img src="/home/ignacio/Imágenes/CapturaHelloWord.png" alt="CapturaHelloWord" style="zoom:80%; float:left;" />
 
-
-
-### Construido con
+### <u>Construido con</u>
 
 AndroidStudio - *Entorno de Desarrollo.*
 
-### Bibliografía
+### <u>Bibliografía</u>
 
-[Wordpress Lourdes]: https://moronlu18.com/wordpress/courses/deint/
-[Doc Android]: https://developer.android.com/reference/
+[WordpressLourdes](https://moronlu18.com/wordpress/courses/deint/ )
+
+[DocAndroid](https://developer.android.com/reference/)
 
